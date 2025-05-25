@@ -1,0 +1,23 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+One of the main aims of the government is to help people who do not have enough income for decent standard of living,,,,23
+,,,,
+"The problems of classical social programs are obvious: there are high cost of maintain office workers, plenty of bureacracy, inaccuracy in distribution of goods",Pronounce,1,8,24
+,,,,
+"One of possible solutions is a ""Guaranteed Basic Income"" system which do not required a lot of official or confirm your status to get support",,,,25
+,,,,
+This solution definitely has its advantages and disadvantages,,,,8
+,,,,
+"On the one hand, using guaranteed basic income system is quite effective",,,,12
+,,,,
+"Government would not to pay wages to additional workers, who have to check all requirement for payment for each person",Deny,1,20,20
+,,,,
+"So there is not any possibility for human factor, so number of error would be sighnificantly decreased",Deny,1,9,17
+,,,,
+"Moreover, this system is more fair than any other distribution system, because it reward person not because her merits or poverty by government estimate but the fact she is a human being",,,,32
+,,,,
+"On the other hand using ""Guaranteed Basic Income"" is quite expensive, because in this case state has to pay to each citizen instead of poor in classical system",Counter,1,11,28
+,,,,
+"According to economists, to implement this system in US government has to increase taxes by 30 percent, which is huge amount",Acknowledge,1,17,21
+,,,,
+"Overall, guranteed basic income is a comlicated solution, but I think that its fairness is the most important factor, so benefits outweigh disadvantages",Multiple|Counter;Acknowledge,,,23

@@ -1,0 +1,25 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+Pharmaceuticals are very profitable field of business of constant demand for medicine prom population,,,,14
+,,,,
+"Pharmaceutical companies gain considerable income, but their activity is questionable from the ethical point of view",Counter,6,16,16
+,,,,
+"Does it morally acceptable for the companies to aim at becoming more monet, instead of helping people",Entertain,1,17,17
+,,,,
+"I agree to some extent to the point of view, that is not ethical, and would like to provide some arguments, supporting this position",Concur,1,14,24
+,,,,
+"We live in capitalism world, thus the main goal of all the private companies regardless their field of activity is to generate revenue for their shareholders",,,,26
+,,,,
+"Moreover, the companies need to gain profits in order to continue manufacturing medicines, conducting new researches and continue their operations - it is understandable",,,,24
+,,,,
+"However, the need for endless gains cannot be fully accepted in the essential fields such as pharmaceuticals",Multiple|Counter;Deny,,,17
+,,,,
+"it is obvious, that most of these companies do not consider fully curing the people but to make them dependent on the prescribed drugs so that they would buy them for a constant period of time, sometimes exceeding even years",Multiple|Pronounce;Deny,,,40
+,,,,
+"This is explained by the greed of companies shareholders and such activity contributes little to nowhere to society - in fact, it parasitizes on it",,,,25
+,,,,
+"This is why government intervention in this sector are justified -it should implement a broad set of policies, which are the most required ones, banning monopolization of grug market via patents and promoting more even competition",,,,36
+,,,,
+"In addition to that, governments should also not allow companies buy the products which are proved to not effective or aimed to make people dependent",,,,25
+,,,,
+"To sum it up, I need believe, that some extent government should control od pharmaceutical companies in order to take care of its population",Entertain,5,24,24

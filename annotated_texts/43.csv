@@ -1,0 +1,37 @@
+"Sentence","Engagement Class","Span's first word","Span's last word","Total words"
+,,,,
+"It's not a secret that British and American films are very popular among audience in many countries",,,,17
+,,,,
+"People often prefer to watch a Hollywood made film rather than give a chance to the one produced in their own country",,,,22
+,,,,
+"In my essay I'll write about various reasons for that and try to offer some solutions",,,,16
+,,,,
+"One of the reasons for that everyone is aware of the high quality of the films produced in America and Britain",,,,21
+,,,,
+"The most famous actors and directors work in these countries",,,,10
+,,,,
+"People all over the world gladly give their money to watch the works of well-known masters",,,,16
+,,,,
+"However in their countries the professionals in this sphere are not so famous, their works haven't prooven to be true masterpieces","Counter",1,21,21
+,,,,
+"That's why American and British films are chosen more often",,,,10
+,,,,
+"Another reason for that is that different famous ceremonies awarding film-makers for their work mostly give prizes to films produced in these English-speaking countries, where as movies produced in other languages are rarely awarded",,,,34
+,,,,
+"For example, Oscar jury almost never awards films in another language with the highest prize",,,,15
+,,,,
+"When people see the results they start to think that their local films' quality doesn't reach that high level",,,,19
+,,,,
+"As for the possible solutions, I don't think that government's financial support to local film industies could actually help to get people's interest","Deny",6,23,23
+,,,,
+"The budget of films often doesn't determine their quality, people won't start to believe in success of some movie once they know the amount of money spent on it","Deny",1,29,29
+,,,,
+"I think that more attention should be paid to the education in this sphere","Entertain",1,14,14
+,,,,
+"Improving educational programmes and inviting specialists from America and Britain might help attract more talented people in this area","Entertain",1,19,19
+,,,,
+"Their professional works might persuade people of their country to go to watch their films","Entertain",1,15,15
+,,,,
+"In conclusion, I consider that the main reasons for the popularity of Americam and British films is the famous specialists who work there and the official ceremonies that only award English-language films","Entertain",3,32,32
+,,,,
+"Local government should try to improve the level of education in this sphere to give a chance to the talented people of this country",,,,24

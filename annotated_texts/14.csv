@@ -1,0 +1,33 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+"Nowadays, advertisement is a vast industry, essential to economics and business",,,,11
+,,,,
+"Ads are used to promote not only individual products, but brands, government programms and lifestyles",,,,15
+,,,,
+"Such an influence on the modern life may raise some concerns, whether the products advertised don't bring any help to people and, quite opposite, whether these products can cause harm to their customers",Entertain,1,33,33
+,,,,
+"More so, while some products are proven to be bad for people's health, it's up for debate, whether companies should be allowed to advertise said products",Multiple|Endorse;Acknowledge,,,26
+,,,,
+"I would say, i agree with that statement",Concur,1,8,8
+,,,,
+"First of all, if the product is harmful to consumer's health, it's a clear case of misinformation or faulty product testing and development",,,,23
+,,,,
+"It is clear, that the most apparent cases would lead to lawsuits which would cost companies a lot of money and status",,,,22
+,,,,
+"For example, there was a case about a woman, who spilled coffee, which was too hot, on herself and got third-degree burns",,,,22
+,,,,
+"She went to court again the company (i believe, it was McDonalds) and ultimately won",,,,15
+,,,,
+"The financial cost was not as significant for the company, but it sure did damage to it's reputation",,,,18
+,,,,
+We should also consider as an argument rgulations,,,,8
+,,,,
+which are already in place,,,,5
+,,,,
+"For example, in Russia, companies are not allowed to show ads of alcoholic beverages",Deny,3,14,14
+,,,,
+This move from the government looks justified due to increasing alcoholism in population,Entertain,1,13,13
+,,,,
+"It is directly due to alcohol causing addiction and lowering quality of life almost anywhere, that companies are only allowed to advertise non-alcoholic beer, for example",,,,26
+,,,,
+"In conclusion, it is shown over the years, that advertisement of unhealthy products prove to be a liability for the company and a risk for a customer, it's also a problem aknowledged by the state",Endorse,3,27,35

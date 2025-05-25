@@ -1,0 +1,31 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+"There is a belief, that it should be prohibited to companies to advertise the product, that can harm the people;s health",Acknowledge,1,21,21
+,,,,
+"In my opinion, there should be some serious restrictions to such advertisings, so I partly agree to this opinion",Multiple|Entertain;Concur,,,19
+,,,,
+"There are different types of products, that are damaging people's health",,,,11
+,,,,
+"Some of products, such as drugs, are causing strict addiction from the first time, and severe problems in health in the future",,,,22
+,,,,
+"However, other goods, such as sigarettes and alcohol, are still bad for the health, but if not overuse them, it will not lead to serious health proplems",Multiple|Counter;Deny,,,27
+,,,,
+"The first type of dangerous products should be prohibited not only to be advertised, but also to be sold",,,,19
+,,,,
+"For instance, it is against the low to sell drugs in most countries",,,,13
+,,,,
+The second type can be found in every market,,,,9
+,,,,
+"This means, that people can still see and buy alcohol and cigarettes everywhere",,,,13
+,,,,
+"On the one hand, if the advertising of alcohol and cigarettes will be totally prohibited, there will be probably some decrease in demand to these products",,,,26
+,,,,
+"However, without creating strong social work with people, this will not have a strong impact on their thoughts",Multiple|Counter;Deny,,,18
+,,,,
+"For example, if a person used to drink alcohol for some years, the reduced ads will not stop him doing that",Deny,13,21,21
+,,,,
+"On the other hand, if the government forces the companies to provide the information about the diseases, that this product leads, on the advertisements, that would reach many people",,,,29
+,,,,
+"If people see the coinsedenses of these goods, they will think first before bying this",,,,15
+,,,,
+"To sum up, I strongly believe, that there should be serious restrictions to the ads, if the product is harmful for the health of people, but the reducing of add will work not so good, as the add with information about the coinsidents",Multiple|Entertain;Counter,,,43

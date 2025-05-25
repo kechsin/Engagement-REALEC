@@ -1,0 +1,41 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+"A lot of experts think that there are a lot of advantages in ""Guaranteed Basic Income"" system in which the citizens of the country get some sum of money every month",Acknowledge,1,31,31
+,,,,
+But there are some people too that think there are disadvantages in this system,Multiple|Counter;Acknowledge,,,14
+,,,,
+Lets start from advantages,,,,4
+,,,,
+"Thirst of all, some people start to spend their ""new"" money for investments",,,,13
+,,,,
+They start to analyse and think about how to spend their money to get more advantages,,,,16
+,,,,
+They will increase their brain and the next generation will have more power of brain,,,,15
+,,,,
+"Secondly, some people do not have money for their everyday products",,,,11
+,,,,
+They need this money to help them stay alive,,,,9
+,,,,
+"Thirdly, it is common knowledge, that more money will make happy every human",Pronounce,2,13,13
+,,,,
+"They can spend their money for some products, that will make their life more comfortable",,,,15
+,,,,
+But there are disadvantages of this system too,Counter,1,8,8
+,,,,
+"It is common knowledege, that if lasy people get free money, he don't like to go to his work",Pronounce,1,19,19
+,,,,
+"The government woud not have a taxes from these people, and this system fall down",,,,15
+,,,,
+"Secondly, if every human will get a money, the clever people get a better income from this money in total",,,,20
+,,,,
+"They can do with these money whatever they want, they do not need this money to stay alive",,,,18
+,,,,
+"And this sum of money can give them twice income, than to the lasy or poor people",,,,17
+,,,,
+"And difference between rich people and poor people will rise up, that benefits to more problems",,,,16
+,,,,
+"To sum up I want to say, that there is some advantages in this system, but benefit of such a system does not outweigh the disadvantages",Counter,16,26,26
+,,,,
+"I think, it would be better, if this money get people who really need them",Entertain,1,15,15
+,,,,
+Or government would spend this money for own world problem,,,,10

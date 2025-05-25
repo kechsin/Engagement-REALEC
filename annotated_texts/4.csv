@@ -1,0 +1,27 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+Sports have always been the kind of entertainment that brings people together and sometimes helps them to forget about their problems,,,,21
+,,,,
+"Nevertheless, some people suppose that watching sports is useless activity that do not possess any brain activity",Acknowledge,2,17,17
+,,,,
+"Actually, I agree with the second point of view, and I am going to support my opinion with some arguments",Concur,2,9,20
+,,,,
+"To start with, there is a variety of activities that could be done instead of television",,,,16
+,,,,
+"For example, learning new language or teaching programming by yourself",,,,10
+,,,,
+"Secondly, simply not watching but doing sports by yourself, for instance, swimming, exercising in gym or jogging in park or around some buildings or neighboorhood",,,,25
+,,,,
+"Finally, there are myriad of ways of spending your leisure time with relatives and friends such as carting, playing volleyball, basketball or hockey",,,,23
+,,,,
+"However, there is an opposing suggestion that watching sports on TV channels is not useless",Multuple|Acknowledge;Counter,,,15
+,,,,
+"To start with, it should be said that people in bars, pubs and cafes talk about routine and everyday problems while watching these programmes",,,,24
+,,,,
+"Then, it is one of the most efficient ways to develop communication skills by speaking with other sports fans in order to be in touch with recent news",,,,28
+,,,,
+"Also, during the match people blow out negative emotions and become less stressed after the match",,,,16
+,,,,
+"In conclusion, it ought to be mentioned that watching sports events on TV unite people from various social classes, professions, religions and statuses",Pronounce,3,23,23
+,,,,
+"Nevertheless, there are other ways of spending free time intellectually and socially",Counter,1,12,12

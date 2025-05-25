@@ -1,0 +1,41 @@
+Sentence,Engagement Class,Span's first word,Span's last word,Total words
+,,,,
+There is no question that a lot of people watch sports on TV and somewhere outside,Pronounce,1,16,16
+,,,,
+The popular beleif is that such activity is a real waste of time,Acknowledge,1,13,13
+,,,,
+I partially agree with this statement,Concur,1,6,6
+,,,,
+There are some arguments for unnecessarity of watching sports,Acknowledge,1,9,9
+,,,,
+The first of these is that people don't get any usefull information from it,,,,14
+,,,,
+"Unfortunatelly, watching sports doesn't teach us anything and people don't get any information about the surrounding world from it",Deny,2,19,19
+,,,,
+"It would be better, for example, to go to the library or watch some scientific channeles",,,,16
+,,,,
+"Another argument is that if a person begin to watch sports on TV quite often, he starts to lead sedentary lifestyle",,,,21
+,,,,
+"For example, while doing such activity, people usually lie down on sofas eating some food",,,,15
+,,,,
+That can even hurt a persons health,Entertain,1,7,7
+,,,,
+"There are, however, equally strong arguments in favour on watching sports on TV or at live events",Multilpe|Acknowledge;Counter,,,17
+,,,,
+"Firstly, people nowadays work a lot and they got really tired after job",,,,13
+,,,,
+Watchig some sports can help a person to get rid of a stress,Entertain,1,13,13
+,,,,
+Also it is a good way to get some positive emotions,,,,11
+,,,,
+All of this can even promote the future productivity in work,,,,11
+,,,,
+Another related argument is that watching some sports is a good reason to meet friends or gather family in order to spend time together,,,,24
+,,,,
+It helps people better communicate with each other and have fun,,,,11
+,,,,
+"To conclude, there is a widely held view that watchig sports on TV or outside is quite unncessary",Acknowledge,3,18,18
+,,,,
+And this point of view isn't unfounded,Deny,1,7,7
+,,,,
+But in contrast to this opinion there are a lot of strong arguments for positive infuential of such an activity,Acknowledge,7,20,20
